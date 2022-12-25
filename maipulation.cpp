@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/crush/problem
+
 long arrayManipulation(int n, vector<vector<int>> queries) {
     /* Implementing the prefix sum methodology
        temp vector initialized with zero for each element  */
